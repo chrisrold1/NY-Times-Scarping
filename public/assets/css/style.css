@@ -11,7 +11,7 @@ h4 {
 
 .btn-danger {
   background-color: #000000bb;
-  border-color: #ffffff;
+  border-color: #C2E7DA;
 }
 
 .btn-danger:hover {
@@ -21,7 +21,7 @@ h4 {
 }
 
 .panel-default > .panel-heading {
-  background-color: #0d6681;
+  background-color: #119DA4 ;
   color: #fff;
   font-size: 20px;
 }
@@ -48,7 +48,7 @@ h4 {
 }
 
 .alert-warning {
-  color: rgb(0, 0, 0);
+  color:47E5BC;
   background-color: #ffffff;
   border-color: #ffffff;
 }
